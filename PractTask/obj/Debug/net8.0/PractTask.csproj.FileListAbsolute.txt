@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\PractTask\PractTask\bin\Debug\net8.0\PractTask.exe
+C:\Users\user\source\repos\PractTask\PractTask\bin\Debug\net8.0\PractTask.deps.json
+C:\Users\user\source\repos\PractTask\PractTask\bin\Debug\net8.0\PractTask.runtimeconfig.json
+C:\Users\user\source\repos\PractTask\PractTask\bin\Debug\net8.0\PractTask.dll
+C:\Users\user\source\repos\PractTask\PractTask\bin\Debug\net8.0\PractTask.pdb
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\PractTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\PractTask.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\PractTask.AssemblyInfo.cs
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\PractTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\PractTask.dll
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\refint\PractTask.dll
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\PractTask.pdb
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\PractTask.genruntimeconfig.cache
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\ref\PractTask.dll
+C:\Users\user\source\repos\PractTask\PractTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\PractTask.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PractTask\PractTask\obj\Debug\net8.0\PractTask.csproj.Up2Date
